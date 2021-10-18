@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'All About Bennie And Lydia',
-  author: 'Lydia',
+  author: 'Lydia & Bennie',
   email: 'qpwbnu@outlook.com',
   link: 'https://nobelium.vercel.app',
   description: 'Bennie与Lydia的故事',
