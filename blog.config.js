@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Lydia & Bennie',
   email: 'qpwbnu@outlook.com',
   link: 'https://nobelium.vercel.app',
-  description: '一心一意 长长久久',
+  description: '❤️',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
